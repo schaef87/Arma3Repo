@@ -1,1 +1,20 @@
-Arma 3
+---
+:motd: []
+:rules: []
+:force_server_name: false
+:game: ArmA3
+:open: false
+:hidden: false
+:force_mod_updates: false
+:required_mods:
+- "@A3MP"
+- "@agm"
+- "@CBA_A3"
+- "@outlw_magrepack"
+- "@sthud_a3"
+- "@task_force_radio"
+- "@tmr"
+:allowed_mods: []
+:apps: []
+:missions: []
+:mpmissions: []
